@@ -1,4 +1,5 @@
-## Hi there 👋
+This is my game I made for CMPT306 At Usask!
+https://weckertlogan.itch.io/gun-runners
 
 <!--
 **LoganWeckert/LoganWeckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
